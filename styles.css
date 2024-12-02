@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/013/446/278/small_2x/digital-technology-binary-code-blue-background-matrix-cyber-technology-security-abstract-circuit-tech-secure-internet-network-connection-binary-zero-one-number-ai-big-data-illustration-vector.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: black;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.content-box {
+    background-color: #000; 
+    color: white; 
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); 
+    opacity: 0.9; 
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-header {
+    margin-top: 20px;
+    color: white;
+}
+
